@@ -25,8 +25,6 @@ Python binary object file from the Google servers.
 
 ## Usage
 
-The Keras Python binary is not suitable for this, and neither is the raw data from the MNIST page.
-
 To use this utility, download labels and images from the MNIST data, uncompress them, and run the following command
 to put them into labeled directories:
 
