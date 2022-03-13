@@ -11,9 +11,9 @@ PGM is a [very simple image format](http://netpbm.sourceforge.net/doc/pgm.html) 
 Apple's Create ML framework will import images data from labeled directories, and some people may find
 it useful to view the images directly from the file system.
 
-If you are using Python you are unlikely to need this.
-
 ## Alternatives
+
+If you are using Python you are unlikely to need this.
 
 Most people learning the MNIST tutorial use Keras
 [mnist.load_data()](https://github.com/keras-team/keras/blob/v2.8.0/keras/datasets/mnist.py) function
