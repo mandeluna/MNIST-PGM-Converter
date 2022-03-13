@@ -35,6 +35,8 @@ convert_to_labeled_directories train-labels-idx1-ubyte train-images-idx3-ubyte t
 convert_to_labeled_directories t10k-labels-idx1-ubyte t10k-images-idx3-ubyte test
 ```
 
+This utility has no dependencies on OS-specific features or third-party libraries.
+
 ## Compiling
 
 To compile on Mac OS X: `clang convert_to_labeled_directories.c -o convert_to_labeled_directories`
